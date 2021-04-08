@@ -8,7 +8,13 @@ is limited to only for managing the current score of the  game
 # 2. Used Only CSS for Designing 
 # 3. Responsive for every size device 
 
-  - 🔭  Thanks for Reading **Made by Me**
-
+  - 🔭  Thanks for Reading 
+  - 
 
 - 💬 Ask me freely about **THis Game and its Approach**
+
+
+
+
+ 
+  .                                               **Made by Me**
