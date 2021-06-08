@@ -9,7 +9,8 @@ is limited to only for managing the current score of the  game
 # 3. Responsive for every size device 
 
   - 🔭  Thanks for Reading 
-  - 
+  - ![image](https://user-images.githubusercontent.com/52369168/121150468-31ee0f00-c861-11eb-94bc-f2b1de725713.png)
+
 
 - 💬 Ask me freely about **THis Game and its Approach**
 
